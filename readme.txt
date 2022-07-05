@@ -4,9 +4,10 @@ Git has a mutable index called stage.
 git tracks changes.
 Creating a new branch is quick and simple.
 add merge
+
+
 test z@ubuntu
 remote add
 ubuntu change
 
 remote add again
-ubuntu change again
